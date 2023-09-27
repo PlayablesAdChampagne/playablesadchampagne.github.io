@@ -1,0 +1,78 @@
+Louise_base.png
+size:2048,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+Head
+bounds:762,110,199,197
+Pupil_L
+bounds:909,405,23,23
+Pupil_R
+bounds:224,134,20,20
+arm shadow
+bounds:384,53,85,82
+bang
+bounds:1753,418,153,92
+body
+bounds:361,214,192,296
+eyebrow_L
+bounds:1908,427,55,22
+eyebrow_R
+bounds:1965,432,35,17
+hair
+bounds:1908,451,59,132
+rotate:90
+hair_back
+bounds:2,134,220,376
+hips
+bounds:555,114,193,205
+rotate:90
+lace
+bounds:854,309,79,76
+rotate:90
+left arm
+bounds:1372,390,171,120
+left foot
+bounds:254,2,128,106
+left forearm 1
+bounds:2,2,100,130
+left hand_Hart
+bounds:1638,384,56,53
+left leg
+bounds:879,430,80,286
+rotate:90
+left leg_2
+bounds:555,309,102,297
+rotate:90
+left upper eyelid
+bounds:384,26,35,25
+mouth2
+bounds:1545,383,91,54
+right arm
+bounds:1545,439,71,206
+rotate:90
+right arm 1
+bounds:104,10,122,148
+rotate:90
+right foot
+bounds:361,137,75,139
+rotate:90
+right hand_Hart
+bounds:1696,385,53,52
+right leg
+bounds:224,156,135,354
+right leg_2
+bounds:555,413,97,322
+rotate:90
+right lower eyelid
+bounds:502,173,43,10
+right upper eyelid
+bounds:502,185,51,27
+shadow
+bounds:1167,399,203,111
+whites_L
+bounds:879,390,38,28
+rotate:90
+whites_R
+bounds:471,104,31,26
+rotate:90
